@@ -1,0 +1,13 @@
+typedef enum {
+  LEFT_PINKY = -5,
+  LEFT_RING = -4,
+  LEFT_MIDDLE = -3,
+  LEFT_INDEX = -2,
+  LEFT_THUMB = -1,
+  NO_FINGER = 0,
+  RIGHT_THUMB = 1,
+  RIGHT_INDEX = 2,
+  RIGHT_MIDDLE = 3,
+  RIGHT_RING = 4,
+  RIGHT_PINKY = 5
+};
