@@ -1,0 +1,5 @@
+This package is an engine for deducing the most economical sequence of fingerings to produce a given sequence of chords on a given musical instrument.
+
+Chords are represented as iterators through sets of musical notes (inversions), starting with the bottom note, referred to as C0.
+Fingerings are represented as an assignment of fingers to positions on strings. [TODO expand]
+Musical instruments are represented as sets of strings with positions. [TODO expand]
